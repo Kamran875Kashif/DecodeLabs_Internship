@@ -1,5 +1,5 @@
-**Todo List Console Application
-**
+**TodoList** **Console** **Application**
+
 
 **Description**
 
@@ -17,8 +17,8 @@ Exit task entry mode using the end command
 
 Python 3 installed
 
-**How to Run
-**
+**How** **to** **Run**
+
 python3 todolist.py
 
 Replace todolist.py with the actual filename if different.
