@@ -8,9 +8,13 @@ A simple command-line Todo List application built with Python. The program allow
 **Features**
 
 Add multiple tasks
+
 Automatically assign task IDs
+
 Display all saved tasks
+
 Menu-driven console interface
+
 Exit task entry mode using the end command
 
 **Requirements**
