@@ -7,9 +7,13 @@ A simple Python-based Expense Tracker that allows users to input product names a
 **Features**
 
 Add multiple expense items
+
 Store item names with prices using a dictionary
+
 Automatically calculate total expenses
+
 Display a clean expense summary
+
 Exit input mode using "No more items"
 
 **Requirements**
